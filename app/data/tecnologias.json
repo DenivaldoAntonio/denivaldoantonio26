@@ -1,0 +1,87 @@
+
+[
+    {
+        "title": "HTML",
+        "image": "html.svg",
+        "description": "Linguagem de marcação utilizada para estruturar páginas web.",
+        "rating": 5
+    },
+    {
+        "title": "CSS",
+        "image": "css.svg",
+        "description": "Linguagem utilizada para definir o estilo e apresentação das páginas web.",
+        "rating": 5
+    },
+    {
+        "title": "Tailwind CSS",
+        "image": "tailwind.svg",
+        "description": "Framework CSS que permite criar interfaces utilizando classes utilitárias.",
+        "rating": 4
+    },
+    {
+        "title": "JavaScript",
+        "image": "javascript.svg",
+        "description": "Linguagem de programação utilizada para adicionar interatividade às páginas web.",
+        "rating": 5
+    },
+    {
+        "title": "TypeScript",
+        "image": "typescript.svg",
+        "description": "Superset de JavaScript que adiciona tipagem estática ao código.",
+        "rating": 4
+    },
+    {
+        "title": "JSON",
+        "image": "json.svg",
+        "description": "Formato leve utilizado para armazenar e trocar dados.",
+        "rating": 4
+    },
+    {
+        "title": "API RESTful",
+        "image": "api.svg",
+        "description": "Interface que permite a comunicação entre aplicações através de HTTP.",
+        "rating": 5
+    },
+    {
+        "title": "Swagger",
+        "image": "swagger.svg",
+        "description": "Ferramenta utilizada para documentar e testar APIs.",
+        "rating": 4
+    },
+    {
+        "title": "GitHub",
+        "image": "github.svg",
+        "description": "Plataforma para alojamento de repositórios e colaboração em projetos.",
+        "rating": 5
+    },
+    {
+        "title": "Codespaces",
+        "image": "codespaces.svg",
+        "description": "Ambiente de desenvolvimento na cloud disponibilizado pelo GitHub.",
+        "rating": 4
+    },
+    {
+        "title": "GitHub Pages",
+        "image": "github-pages.svg",
+        "description": "Serviço utilizado para publicar websites diretamente a partir de repositórios.",
+        "rating": 4
+    },
+    {
+        "title": "React.js",
+        "image": "react.svg",
+        "description": "Biblioteca JavaScript utilizada para construir interfaces através de componentes.",
+        "rating": 5
+    },
+    {
+        "title": "Next.js",
+        "image": "nextjs.svg",
+        "description": "Framework React utilizado para desenvolver aplicações web.",
+        "rating": 5
+    },
+    {
+        "title": "Vercel",
+        "image": "vercel.svg",
+        "description": "Plataforma de deployment e alojamento de aplicações web.",
+        "rating": 4
+    }
+]
